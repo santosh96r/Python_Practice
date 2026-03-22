@@ -1,0 +1,58 @@
+{
+    "statusCode": 200,
+    "data": {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Sushma",
+            "last": "Anand"
+        },
+        "location": {
+            "street": {
+                "number": 1617,
+                "name": "Bandstand Promenade"
+            },
+            "city": "Farrukhabad",
+            "state": "Tripura",
+            "country": "India",
+            "postcode": 57623,
+            "coordinates": {
+                "latitude": "37.1543",
+                "longitude": "94.7674"
+            },
+            "timezone": {
+                "offset": "+1:00",
+                "description": "Brussels, Copenhagen, Madrid, Paris"
+            }
+        },
+        "email": "sushma.anand@example.com",
+        "login": {
+            "uuid": "1040337d-a51d-4d84-98bc-b707b89a4d91",
+            "username": "goldencat770",
+            "password": "woodman",
+            "salt": "emEflRoB",
+            "md5": "e123b5f664efc28801263d196ceb88da",
+            "sha1": "b0e34eef3aae7391dde57d3fc0439bba40852ec2",
+            "sha256": "c8f80b2fd1eaceff4a958d28a49cecad7f2e11a54268c9f08030fa5737cb6f1d"
+        },
+        "dob": {
+            "date": "1964-06-02T06:41:45.155Z",
+            "age": 58
+        },
+        "registered": {
+            "date": "2012-08-01T15:04:13.620Z",
+            "age": 10
+        },
+        "phone": "7287015018",
+        "cell": "9878918464",
+        "id": 297,
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/1.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+        },
+        "nat": "IN"
+    },
+    "message": "Random user fetched successfully",
+    "success": true
+}
