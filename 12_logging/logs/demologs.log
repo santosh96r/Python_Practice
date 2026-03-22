@@ -1,0 +1,10 @@
+WARNING:root:debug : addition of number is : 83
+2025-10-04 21:53:47,214 - DEBUG : debug : addition of number is : 83 
+2025-10-04 21:53:47,214 - INFO : debug : addition of number is : 83 
+2025-10-04 21:53:47,214 - WARNING : debug : addition of number is : 83 
+10/04/2025 09:56:59: PM  - DEBUG : debug : addition of number is : 83 
+10/04/2025 09:56:59: PM  - INFO : debug : addition of number is : 83 
+10/04/2025 09:56:59: PM  - WARNING : debug : addition of number is : 83 
+04/10/2025 09:57:49: PM  - DEBUG : debug : addition of number is : 83 
+04/10/2025 09:57:49: PM  - INFO : debug : addition of number is : 83 
+04/10/2025 09:57:49: PM  - WARNING : debug : addition of number is : 83 
